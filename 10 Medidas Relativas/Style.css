@@ -1,0 +1,22 @@
+html{
+    background-color: gray;
+}
+/* 1 EM = 16 pixels */
+
+body{
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 3em;
+}
+
+.pai {
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 1.5em;
+}
+.filho{
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 1em;
+
+}
